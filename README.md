@@ -22,7 +22,7 @@
 
 ### My name is Gabriel
 - Computer Engineer Student 🎓
-- FrontEnd Developer 👨‍💻
+- Fullstack Developer 👨‍💻
 - Always thirst for learning, knowledge and experience 🚀
 
 <br />
