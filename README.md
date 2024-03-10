@@ -29,5 +29,3 @@
 - Always thirst for learning, knowledge and experience 🚀
 
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galimarodrigues&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&count_private=true&hide=TeX&layout=compact)
