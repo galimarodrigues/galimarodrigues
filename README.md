@@ -21,8 +21,6 @@
   <p>
  </div>
 
-<img align="right" alt="git hub gif" src="https://user-images.githubusercontent.com/117487712/233188932-aceb1bae-ebc9-45d2-81bb-0b6aad59e176.gif" width="250px"/>
-
 ### My name is Gabriel
 - Computer Engineer Student 🎓
 - Fullstack Developer 👨‍💻
