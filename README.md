@@ -24,8 +24,8 @@
  </div>
 
 ### My name is Gabriel
-- Computer Engineer Student 🎓
 - Fullstack Developer 👨‍💻
+- Computer Engineer Student 🎓
 - Always thirst for learning, knowledge and experience 🚀
 
 <br />
