@@ -35,8 +35,10 @@ Hi! I'm **Gabriel Rodrigues**, a **Full-Stack Developer** passionate about build
 - 💼 Currently **Backend Developer (Mid-level)** at **Neohype**
 - ⚙️ Working with **FastAPI, RabbitMQ, PostgreSQL, SQL, Docker and Linux**
 - 💻 Experience building **APIs, integrations and scalable backend services**
-- 📱 Mobile development with **Ionic** and **React Native**
+- 📱 Mobile development with **Ionic and React Native**
 - 🌐 Frontend experience with **Angular and React**
+- 🐍 I love playing around with **Python**, writing scripts to automate random things and break fewer keyboards
+- ⚡ **Django and FastAPI** are both amazing — each one perfect in its own way depending on the project (it's like choosing between coffee and espresso ☕)
 - 🎓 Computer Engineering Student
 - 🚀 Always learning and building new things
 
