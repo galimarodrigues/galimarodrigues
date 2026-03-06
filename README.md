@@ -41,5 +41,8 @@ Hi! I'm **Gabriel Rodrigues**, a **Full-Stack Developer** passionate about build
 - ⚡ **Django and FastAPI** are both amazing — each one perfect in its own way depending on the project (it's like choosing between coffee and espresso ☕)
 - 🎓 Computer Engineering Student
 - 🚀 Always learning and building new things
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
+
+![](https://komarev.com/ghpvc/?username=galimarodrigues)
 
 <br>
