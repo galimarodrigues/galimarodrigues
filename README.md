@@ -69,7 +69,6 @@ Hi! I'm **Gabriel Rodrigues**, a **Full-Stack Developer** passionate about build
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=galimarodrigues&show_icons=true&theme=github_dark&rank_icon=github" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=galimarodrigues&theme=github-dark" />
 </div>
 
