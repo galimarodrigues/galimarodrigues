@@ -1,3 +1,5 @@
+<div>
+
 <h2 align="center">
   Hello World! ʕ•́ᴥ•̀ʔっ
 </h2>
@@ -9,21 +11,6 @@
   <a href="https://www.linkedin.com/in/gabriel-lr/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-</div>
-
-<br>
-
-<div align="center">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg">
-  <img align="center" alt="Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
 <br>
@@ -41,8 +28,51 @@ Hi! I'm **Gabriel Rodrigues**, a **Full-Stack Developer** passionate about build
 - ⚡ **Django and FastAPI** are both amazing — each one perfect in its own way depending on the project (it's like choosing between coffee and espresso ☕)
 - 🎓 Computer Engineering Student
 - 🚀 Always learning and building new things
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
-
-![](https://komarev.com/ghpvc/?username=galimarodrigues)
 
 <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=galimarodrigues">
+</div>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img height="24px" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br>
+
+<img height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="24px" src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br>
+
+<img height="24px" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+<br>
+
+<img height="24px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=galimarodrigues&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=galimarodrigues&theme=github-dark" />
+</div>
+
+<br>
+
+</div>
